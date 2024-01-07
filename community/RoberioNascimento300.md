@@ -4,9 +4,10 @@
 
 ### 🏠 Estatísticas no GitHub
 
-![Status GitHub](https://github.com/RoberioNascimento300)
+![GitHub](https://github.com/RoberioNascimento300) 🐱
 
 ### 🚀 Projetos em Destaque
 ![aluratube](https://github.com/RoberioNascimento300/aluratube)
 
-
+## 🔍Referências
+- [Digital Innovation One](https://www.dio.me/).
